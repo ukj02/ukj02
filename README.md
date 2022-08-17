@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats 
 
-[![Omair's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/ukj02)
+[![Omair's github stats](https://github-readme-stats.vercel.app/api?username=ukj02)](https://github.com/ukj02)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/ukj02)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukj02&layout=compact)](https://github.com/ukj02)
 
