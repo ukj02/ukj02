@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<h3 align="center">
+Hi! I'm Omair a senior at Rutgers University studying Computer Science. I am interested in AI/ML.
+</h2>
 
 <!--
 **ukj02/ukj02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
