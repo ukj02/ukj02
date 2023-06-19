@@ -1,6 +1,6 @@
 
 <h3 align="center">
-Hi! I'm Omair a senior at Rutgers University studying Computer Science.
+Hi! I'm Omair, a recent CS grad from Rutgers Univeristy looking for a full time software engineering role
 </h2>
 
 <!--
